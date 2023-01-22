@@ -17,5 +17,17 @@ Run the .py file
 Best result was 100% accuracy for the test data.<br>
 Results will be saved in the folder "sample output"
 
+Model Loss:
+
+![](./Readme_images/model_loss.png)
+
+Correctly predicted CAPTCHAs:
+
+![](./Readme_images/correctly_predicted_data.png)
+
+Wrongly predicted CAPTCHAs:
+
+![](./Readme_images/wrongly_predicted_data.png)
+
 ## Reference:
 https://keras.io/examples/vision/captcha_ocr/
