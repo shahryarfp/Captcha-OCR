@@ -1,6 +1,6 @@
 # Captcha-OCR
 ## explanation:
-The code uses a deep learning model to identify characters in the captcha dataset.
+The code uses a deep learning model to identify characters in the captcha dataset.<br>
 Sample dataset image:<br>
 ![](./Readme_images/few_training_data.png)
 
