@@ -1,6 +1,6 @@
 # Captcha-OCR
 ## explanation:
-The code is using deep learning model to identify characters in captcha dataset.
+The code uses a deep learning model to identify characters in the captcha dataset.
 Sample dataset image:<br>
 ![](./Readme_images/few_training_data.png)
 
@@ -8,13 +8,13 @@ Sample dataset image:<br>
 The dataset is available here:
 https://github.com/shahryarfp/Captcha-OCR/blob/main/samples.zip
 
-it should be extracted and be in the same directory as the .py file
+It should be extracted and be in the same directory as the .py file
 
 ## How to use:
 Run the .py file
 
 ## Results:
-Best result was 100% accuracy for the test data.<br>
+The best result was 100% accuracy for the test data.<br>
 Results will be saved in the folder "sample output"
 
 Model Loss:
